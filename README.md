@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently front end devloper i use HTML,css,bootstrep,javascript<br>i know photo editing and video editing<br>i'm learning Python,java,C
+i'm currently front end devloper i use HTML,css,bootstrep,javascript<br>i know photo editing and video editing<br>i'm also Freelancer
 
 
 ## 🌐 Socials:
