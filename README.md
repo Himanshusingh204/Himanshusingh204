@@ -23,9 +23,10 @@
 
 ## ⚡ About Me
 
-- 🔭 I’m currently working on **VajraFitness & cutting-edge Web Apps**
-- 🌱 I’m currently learning **Advanced System Design & Scalable Architecture**
-- 💬 Ask me about **React, Node.js, and Full-Stack Development**
+- 🔭 I’m currently building **AI-powered tools (AI Resume Builder, AI Room Organizer)** and **Enterprise SaaS platforms (VajraFitness Gym Management, College Management System).**
+- 💻 My diverse portfolio includes **Trading Apps (Accurate Trading), E-Commerce platforms (FashionHub), Discord Bots, and Real-time Screensharing applications.**
+- 🌱 I’m currently diving deep into **Advanced System Design, Scalable Architecture, and modern API integrations.**
+- 💬 Ask me about **React, Node.js, Full-Stack Architecture, and turning complex ideas into production-ready code.**
 - 📫 How to reach me: **himanshusingh21361@gmail.com**
 
 ---
@@ -61,12 +62,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Himanshusingh204&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  <!-- Fixed links and enabled count_private=true so your local/private work reflects here! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshusingh204&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Himanshusingh204&theme=radical&hide_border=false" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Himanshusingh204&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusingh204&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <br/>
@@ -80,16 +82,8 @@
 
 ## 🔝 Top Contributed Repositories
 <div align="center">
+  <!-- Note: This API sometimes takes a moment to load if you have a lot of private repos -->
   <img src="https://github-contributor-stats.vercel.app/api?username=Himanshusingh204&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
 
 ---
-
-<div align="center">
-  <p><b>Profile Visitors</b></p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Himanshusingh204&icon=0&color=20B2AA&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</div>
-
-<!-- Proudly created with GPRM & Customized by AI -->
